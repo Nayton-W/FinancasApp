@@ -14,7 +14,7 @@ function Tema() {
     <div>
    
       <button className="theme-toggle" onClick={toggleTheme}>
-      <h6>MudarTema</h6>
+      <h6>[MudarTema]</h6>
         <FaThemeco/>
       </button>
     
